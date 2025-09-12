@@ -1,0 +1,18 @@
+[Adblock Plus]
+! Title: St4vrogin's Social DNS Blocklist
+! Description: Blocks social content.
+! Homepage: https://github.com/st4vrogin
+! Expires: 1 day
+! Last modified: 12 Sep 2025 13:54 UTC
+! Version: 2025.0912.1354.40
+! Syntax: AdBlock
+! Number of entries: 8
+!
+||x.com^
+||facebook.com^
+||mastodon.com^
+||reddit.com^
+||discord.com^
+||snapchat.com^
+||vk.com^
+||odnoklassniki.com^
